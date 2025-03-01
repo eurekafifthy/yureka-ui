@@ -1,0 +1,33 @@
+{
+  "name": "yureka",
+  "version": "0.1.0",
+  "description": "A modular UI component library for Next.js",
+  "main": "index.js",
+  "bin": {
+    "yureka": "./bin/yureka.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "components",
+    "nextjs",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "eurekafifthy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.4.0",
+    "inquirer": "^8.2.4",
+    "ora": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^11.3.0"
+  }
+}
