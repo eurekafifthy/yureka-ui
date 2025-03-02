@@ -15,7 +15,7 @@ Supercharge your Next.js projects with beautiful, production-ready UI components
 Add Yureka UI to your Next.js project in seconds:
 
 ```bash
-npx yureka@latest init
+npx yureka-ui init
 ```
 
 This will set up the Yureka UI directory structure in your project and detect your existing configuration.
@@ -25,13 +25,13 @@ This will set up the Yureka UI directory structure in your project and detect yo
 Add components as you need them:
 
 ```bash
-npx yureka@latest add button
+npx yureka-ui add button
 ```
 
 Or interactively choose from available components:
 
 ```bash
-npx yureka@latest add
+npx yureka-ui add
 ```
 
 ## 🗑️ Removing Components
@@ -39,7 +39,7 @@ npx yureka@latest add
 No longer need a component? Easy removal:
 
 ```bash
-npx yureka@latest remove button
+npx yureka-ui remove button
 ```
 
 ## 🧩 Available Components
