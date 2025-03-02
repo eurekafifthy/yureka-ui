@@ -12,3 +12,4 @@ yarn-error.log
 # script
 node_modules
 *.sh
+*.tgz

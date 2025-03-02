@@ -1,11 +1,20 @@
 {
-  "name": "yureka",
+  "name": "yureka-ui",
   "version": "0.1.0",
   "description": "A modular UI component library for Next.js",
   "main": "index.js",
   "bin": {
-    "yureka": "./bin/yureka.js"
+    "yureka": "bin/yureka.js"
   },
+  "files": [
+    "bin",
+    "src/cli",
+    "src/templates",
+    "src/utils",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
