@@ -1,6 +1,6 @@
 {
   "name": "yureka-ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A modular UI component library for Next.js",
   "main": "index.js",
   "bin": {
